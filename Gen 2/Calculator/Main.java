@@ -18,7 +18,7 @@ public class Main
 	    System.out.println (oneD + twoD);
 	    break;
 	  }
-	else if (threeS.equals ("-"))
+	else if (threeS.equals ("h"))
 	  {
 	    System.out.println (oneD - twoD);
 	    break;
