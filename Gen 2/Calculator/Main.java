@@ -2,6 +2,10 @@ import java.util.Scanner;
 
 public class Main
 {
+ static void say(String word){
+	 System.out.println(word);
+ }
+	
   public static void main (String[]args)
   {
     int n = 1;
